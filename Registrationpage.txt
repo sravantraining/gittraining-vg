@@ -1,0 +1,10 @@
+i
+
+								GitHub Signup
+								=============
+
+							Email			------------------
+							Password		------------------
+							Username		------------------
+
+								Create 		Cancel
