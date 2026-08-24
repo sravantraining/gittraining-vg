@@ -1,0 +1,4 @@
+stage cehckout from git
+stage maven build
+stage docker build
+stage deployment
